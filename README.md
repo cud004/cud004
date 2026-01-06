@@ -35,13 +35,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/cud004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cud004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cud004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-</div>
 
 <br>
 
